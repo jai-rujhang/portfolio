@@ -1,6 +1,7 @@
-# portfolio
-生涯檔案
+# cce
+程式設計
 
+week01
 ```C
 #include <stdio.h>
 int main() ///在main()裡面,可以省略!!
