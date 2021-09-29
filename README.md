@@ -1,7 +1,7 @@
 # cce
 程式設計
 
-week01
+week02
 ```C
 #include <stdio.h>
 int main() ///在main()裡面,可以省略!!
